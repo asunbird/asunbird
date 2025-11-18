@@ -1,4 +1,5 @@
 ## Hi there 👋
+I'm currently learning to make Pull Requests. I'm open to collaboration
 
 <!--
 **asunbird/asunbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
