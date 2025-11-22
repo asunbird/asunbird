@@ -9,6 +9,7 @@ I am a creative person, but I also love mathematics, so I decided to learn progr
 
 I find it easy to generate ideas, and I want to learn how to bring them to life through coding practices. :nerd_face:
 I also enjoy working in a team with interesting people and finding the best solutions for our project. I am open to collaboration and startup projects.
+
 I also enjoy traveling with my camera, taking portraits of people, and even making short videos. :camera: 
 <!--
 **asunbird/asunbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
