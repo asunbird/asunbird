@@ -1,6 +1,6 @@
 ## Hi there 👋
 I'm currently learning to make Pull Requests. I'm open to collaboration
-<div><img src="https://www.freepik.com/premium-vector/beautiful-cute-animated-hacker-fox-tech-savvy-animated-animal_22591195.htm#fromView=keyword&page=1&position=16&uuid=71567b52-25ad-4d96-8050-53bd24c94248&query=Github+character"></div>
+<div><img src="[fox-tech](https://www.freepik.com/premium-vector/beautiful-cute-animated-hacker-fox-tech-savvy-animated-animal_22591195.htm#fromView=keyword&page=1&position=16&uuid=71567b52-25ad-4d96-8050-53bd24c94248&query=Github+character)"></div>
  
 <!--
 **asunbird/asunbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
