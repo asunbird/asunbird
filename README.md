@@ -1,7 +1,8 @@
 ## Hi there 👋
 I'm currently learning to make Pull Requests. I'm open to collaboration
 
-![The Earth spinning in space](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDlxaGY2Z293azBmaHloZmhiOWU1amdsN2pmamJ1d2JkbWNsbWl5MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GB6qkAvTyB1r8sOPuS/giphy.gif)
+![Excited coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdmOTQxcmc1ZzB1eDlpcnpnNnRxamh3NTlybTBoc3U3bGYwbnkxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
+
  
 <!--
 **asunbird/asunbird** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
