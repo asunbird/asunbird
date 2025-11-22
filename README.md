@@ -6,6 +6,7 @@ I'm currently learning to make Pull Requests. I'm open to collaboration
 ### This text is my short introduction. ###
 
 I am a creative person, but I also love mathematics, so I decided to learn programming to add some technical skills to my knowledge in the field of design. 
+
 I find it easy to generate ideas, and I want to learn how to bring them to life through coding practices. :nerd_face:
 I also enjoy working in a team with interesting people and finding the best solutions for our project. I am open to collaboration and startup projects.
 I also enjoy traveling with my camera, taking portraits of people, and even making short videos. :camera: 
