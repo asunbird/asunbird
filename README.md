@@ -3,7 +3,7 @@ I'm currently learning to make Pull Requests. I'm open to collaboration
 
 ![Excited coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdmOTQxcmc1ZzB1eDlpcnpnNnRxamh3NTlybTBoc3U3bGYwbnkxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
 
-###This text is my short introduction.###
+### This text is my short introduction. ###
 
 I am a creative person, but I also love mathematics, so I decided to learn programming to add some technical skills to my knowledge in the field of design. 
 I find it easy to generate ideas, and I want to learn how to bring them to life through coding practices. :nerd_face:
