@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm currently learning to make Pull Requests. I'm open to collaboration
+"Currently learning and building projects in HTML, CSS, and JavaScript!"
 
 ![Excited coding GIF](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHdmOTQxcmc1ZzB1eDlpcnpnNnRxamh3NTlybTBoc3U3bGYwbnkxcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LMcB8XospGZO8UQq87/giphy.gif)
 
